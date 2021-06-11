@@ -4,7 +4,7 @@
   tasks:
   - name: i want to execute linux command
     command: hostname
-    resister: myresult
+    register: myresult
   
   - name: disply first task result
     debug:
