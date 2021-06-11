@@ -20,6 +20,3 @@
 
 
 
-[mywebservers:vars]
-myubuntuwebpackage=apache2
-myredhatwebpackage=httpd
