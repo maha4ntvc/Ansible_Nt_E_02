@@ -9,3 +9,4 @@
   - name: disply first task result
     debug:
        msg: "{{myresult}}"
+       
